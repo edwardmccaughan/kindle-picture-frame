@@ -1,6 +1,6 @@
 # Kindle AI art picture frame
 
-Turn an old kindle (gen 4) into a an picture frame that displays randomly generated AI images
+Turn an old kindle (gen 4) into a an picture frame that displays randomly generated AI images using the dalle-3 api
 
 ## installation
 
